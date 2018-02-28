@@ -1,0 +1,17 @@
+/home/amra/IdeaProjects/dst16/ass2-ws/src/main/java/dst/ass2/ws/impl/GetStatsResponseAdapter.java
+/home/amra/IdeaProjects/dst16/ass2-ws/src/main/java/dst/ass2/ws/session/EventStatisticsBean.java
+/home/amra/IdeaProjects/dst16/ass2-ws/src/main/java/dst/ass2/ws/Constants.java
+/home/amra/IdeaProjects/dst16/ass2-ws/src/main/java/dst/ass2/ws/impl/GetStatsResponse.java
+/home/amra/IdeaProjects/dst16/ass2-ws/src/main/java/dst/ass2/ws/WSRequestFactory.java
+/home/amra/IdeaProjects/dst16/ass2-ws/src/main/java/dst/ass2/ws/impl/GetStatsRequestAdapter.java
+/home/amra/IdeaProjects/dst16/ass2-ws/src/main/java/dst/ass2/ws/impl/GetStatsRequest.java
+/home/amra/IdeaProjects/dst16/ass2-ws/src/main/java/dst/ass2/ws/IGetStatsResponse.java
+/home/amra/IdeaProjects/dst16/ass2-ws/src/main/java/dst/ass2/ws/session/exception/WebServiceException.java
+/home/amra/IdeaProjects/dst16/ass2-ws/src/main/java/dst/ass2/ws/dto/StatisticsDTO.java
+/home/amra/IdeaProjects/dst16/ass2-ws/src/main/java/dst/ass2/ws/util/WebServiceUtils.java
+/home/amra/IdeaProjects/dst16/ass2-ws/src/main/java/dst/ass2/ws/IGetStatsRequest.java
+/home/amra/IdeaProjects/dst16/ass2-ws/src/main/java/dst/ass2/ws/session/interfaces/IEventStatisticsBean.java
+/home/amra/IdeaProjects/dst16/ass2-ws/src/main/java/dst/ass2/ws/dto/StreamingDTO.java
+/home/amra/IdeaProjects/dst16/ass2-ws/src/main/java/dst/ass2/ws/util/MiscUtils.java
+/home/amra/IdeaProjects/dst16/ass2-ws/src/main/java/dst/ass2/ws/util/WSUtils.java
+/home/amra/IdeaProjects/dst16/ass2-ws/src/main/java/dst/ass2/ws/util/XMLUtils.java

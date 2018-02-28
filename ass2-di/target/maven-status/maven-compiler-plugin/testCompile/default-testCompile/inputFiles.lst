@@ -1,0 +1,10 @@
+/home/amra/IdeaProjects/dst16/ass2-di/src/test/java/dst/ass2/di/type/SubType.java
+/home/amra/IdeaProjects/dst16/ass2-di/src/test/java/dst/ass2/di/BasicInjectionTest.java
+/home/amra/IdeaProjects/dst16/ass2-di/src/test/java/dst/ass2/di/type/SimpleComponent.java
+/home/amra/IdeaProjects/dst16/ass2-di/src/test/java/dst/ass2/di/type/Container.java
+/home/amra/IdeaProjects/dst16/ass2-di/src/test/java/dst/ass2/di/type/SuperType.java
+/home/amra/IdeaProjects/dst16/ass2-di/src/test/java/dst/ass2/di/TransparentInjectionTest.java
+/home/amra/IdeaProjects/dst16/ass2-di/src/test/java/dst/ass2/di/type/Invalid.java
+/home/amra/IdeaProjects/dst16/ass2-di/src/test/java/dst/ass2/di/type/SimpleSingleton.java
+/home/amra/IdeaProjects/dst16/ass2-di/src/test/java/dst/ass2/di/type/ComplexComponent.java
+/home/amra/IdeaProjects/dst16/ass2-di/src/test/java/dst/ass2/di/SpecialInjectionTest.java

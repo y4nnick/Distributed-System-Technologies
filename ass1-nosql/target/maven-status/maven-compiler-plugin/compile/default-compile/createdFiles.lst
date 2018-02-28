@@ -1,0 +1,4 @@
+dst/ass1/nosql/MongoTestData.class
+dst/ass1/nosql/IMongoDbQuery.class
+dst/ass1/nosql/IMongoDbDataLoader.class
+dst/ass1/nosql/MongoDbFactory.class

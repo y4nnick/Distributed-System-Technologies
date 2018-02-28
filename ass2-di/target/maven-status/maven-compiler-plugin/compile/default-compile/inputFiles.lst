@@ -1,0 +1,10 @@
+/home/amra/IdeaProjects/dst16/ass2-di/src/main/java/dst/ass2/di/impl/InjectionControler.java
+/home/amra/IdeaProjects/dst16/ass2-di/src/main/java/dst/ass2/di/IInjectionController.java
+/home/amra/IdeaProjects/dst16/ass2-di/src/main/java/dst/ass2/di/InjectionException.java
+/home/amra/IdeaProjects/dst16/ass2-di/src/main/java/dst/ass2/di/annotation/ComponentId.java
+/home/amra/IdeaProjects/dst16/ass2-di/src/main/java/dst/ass2/di/model/ScopeType.java
+/home/amra/IdeaProjects/dst16/ass2-di/src/main/java/dst/ass2/di/InjectionControllerFactory.java
+/home/amra/IdeaProjects/dst16/ass2-di/src/main/java/dst/ass2/di/annotation/Component.java
+/home/amra/IdeaProjects/dst16/ass2-di/src/main/java/dst/ass2/di/util/InjectionUtils.java
+/home/amra/IdeaProjects/dst16/ass2-di/src/main/java/dst/ass2/di/agent/InjectorAgent.java
+/home/amra/IdeaProjects/dst16/ass2-di/src/main/java/dst/ass2/di/annotation/Inject.java

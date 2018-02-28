@@ -1,0 +1,16 @@
+/home/amra/IdeaProjects/dst16/ass2-ejb/src/main/java/dst/ass2/ejb/util/EJBUtils.java
+/home/amra/IdeaProjects/dst16/ass2-ejb/src/main/java/dst/ass2/ejb/session/interfaces/IEventManagementBean.java
+/home/amra/IdeaProjects/dst16/ass2-ejb/src/main/java/dst/ass2/ejb/management/PriceManagementBean.java
+/home/amra/IdeaProjects/dst16/ass2-ejb/src/main/java/dst/ass2/ejb/dto/AuditParameterDTO.java
+/home/amra/IdeaProjects/dst16/ass2-ejb/src/main/java/dst/ass2/ejb/session/GeneralManagementBean.java
+/home/amra/IdeaProjects/dst16/ass2-ejb/src/main/java/dst/ass2/ejb/session/interfaces/ITestingBean.java
+/home/amra/IdeaProjects/dst16/ass2-ejb/src/main/java/dst/ass2/ejb/session/TestingBean.java
+/home/amra/IdeaProjects/dst16/ass2-ejb/src/main/java/dst/ass2/ejb/interceptor/AuditInterceptor.java
+/home/amra/IdeaProjects/dst16/ass2-ejb/src/main/java/dst/ass2/ejb/session/exception/AssignmentException.java
+/home/amra/IdeaProjects/dst16/ass2-ejb/src/main/java/dst/ass2/ejb/management/interfaces/IPriceManagementBean.java
+/home/amra/IdeaProjects/dst16/ass2-ejb/src/main/java/dst/ass2/ejb/dto/AssignmentDTO.java
+/home/amra/IdeaProjects/dst16/ass2-ejb/src/main/java/dst/ass2/ejb/session/interfaces/IGeneralManagementBean.java
+/home/amra/IdeaProjects/dst16/ass2-ejb/src/main/java/dst/ass2/ejb/session/EventManagementBean.java
+/home/amra/IdeaProjects/dst16/ass2-ejb/src/main/java/dst/ass2/ejb/dto/AuditLogDTO.java
+/home/amra/IdeaProjects/dst16/ass2-ejb/src/main/java/dst/ass2/ejb/simulator/SimulatorBean.java
+/home/amra/IdeaProjects/dst16/ass2-ejb/src/main/java/dst/ass2/ejb/dto/BillDTO.java

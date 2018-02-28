@@ -1,0 +1,17 @@
+dst/ass2/ejb/dto/AssignmentDTO.class
+dst/ass2/ejb/session/EventManagementBean.class
+dst/ass2/ejb/dto/AuditParameterDTO.class
+dst/ass2/ejb/dto/BillDTO$BillPerEventMaster.class
+dst/ass2/ejb/util/EJBUtils.class
+dst/ass2/ejb/interceptor/AuditInterceptor.class
+dst/ass2/ejb/session/exception/AssignmentException.class
+dst/ass2/ejb/dto/AuditLogDTO.class
+dst/ass2/ejb/session/TestingBean.class
+dst/ass2/ejb/session/interfaces/ITestingBean.class
+dst/ass2/ejb/session/interfaces/IEventManagementBean.class
+dst/ass2/ejb/dto/BillDTO.class
+dst/ass2/ejb/management/PriceManagementBean.class
+dst/ass2/ejb/session/GeneralManagementBean.class
+dst/ass2/ejb/simulator/SimulatorBean.class
+dst/ass2/ejb/session/interfaces/IGeneralManagementBean.class
+dst/ass2/ejb/management/interfaces/IPriceManagementBean.class
